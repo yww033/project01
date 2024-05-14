@@ -12,7 +12,7 @@
   <?php require_once("headerNavbar.php"); ?>
 
 
-  <script>
+  <!-- <script>
     // 獲取放大鏡搜尋圖示和搜尋表單元素
     const searchIcon = document.getElementById('searchIcon');
     const searchForm = document.getElementById('searchForm');
@@ -21,7 +21,7 @@
     searchIcon.addEventListener('click', function() {
       searchForm.style.display = 'block';
     });
-  </script>
+  </script> -->
 
   <section id="content01"><!--輪播區 -->
     <div class="container-fliud">
@@ -240,7 +240,7 @@
       <i class="far fa-envelope"></i>
     </a>
   </div>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
 </body>
 
 </html>

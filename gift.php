@@ -144,33 +144,52 @@
       </header>
 
 
-      <main>
-        <h1>
-          <svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.3 145.3">
-            <path d="M128.8 122.6c-2 2.4-14 14.3-24.3 21.4-1.8-24.8-13.7-40.7-33.2-54.3a336 336 0 0 0-.2 33c.4 7 3.8 11.2 9.3 15.7-7.2 1.6-28 1.3-35-1 .7-.5 9.5-5.4 10.3-21.3.5-11.4.6-19.8.2-33.7l-.9-3.6c-9.5-7-17.7-14.1-28.4-25.6 9.8 25.7-2.6 57.8-4 69.6-.5 4-1.8 12-1.3 20.3-3.1-1.9-15.4-10-21.3-17.6C17.1 96 29.6 67.3 2.7 41c5-7.6 12.5-14.4 18.6-17.3a80.4 80.4 0 0 0 30 38.9C43.7 34.4 33.9 25 27.7 21.9c4.1-9.5 17.5-19.4 24.6-22a43.5 43.5 0 0 0-.3 28.8c3.3 11.4 8.4 25.2 14 35.6C69.2 59 79.9 36.7 82.8 27a53.9 53.9 0 0 0 1.6-24.8A77.5 77.5 0 0 1 107 24c-6.5 1.4-9.6 4.7-13.4 11.4-4 6.8-14 32.5-19.6 43.6 5.9 5 16.1 11.4 24.3 21.2-9-35.2.2-62 12-70 5.4 1.7 12.4 6.2 17.5 11.5-19.1 8-17.9 32.4-18 34.2-.8 14 4.8 38.8 15.4 44.9a34 34 0 0 0 3.7 2c-2 2.4-14 14.2-24.3 21.3" />
-          </svg>
-          New York
-        </h1>
-        <a class="no-iframe" href="https://codepen.io/jakob-e/debug/ELqeRM/" target="_blank">Open in debug mode</a>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <svg class="separator" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-          <path d="M488 13.6c-13.8 7.6-14.4 10.6-14.4 76 0 37.5-.8 58.4-2 58.4-7.5 0-28.4 28.2-28.4 38.3 0 2.2-4.3 8.7-9.3 14.8a105.4 105.4 0 0 0-23.2 46c-1 6.2-2 28.3-2 49.2v38.3H403c-8.3 0-18.8 6.5-23.1 14.4-3.4 6.5-3.6 17.4-3.6 223.4V789h-22c-25.1 0-33.2 2.9-39.3 14.4-3.3 6.3-3.7 13.2-3.7 82.6 0 83.8.4 86.2 12.6 93.7 8.5 5.1 19 5.1 27.6 0 12-7.3 12.6-11.3 12.6-78v-60H386c25.2 0 33.3-2.8 39.4-14.3 3.4-6.5 3.6-17.5 3.6-223.4V387.3h5.7c8.3 0 18.9-6.5 23.1-14.4 3.3-6 3.7-12.3 3.7-62.5 0-52.5.2-56.2 4.2-64.7 6.5-13.4 17.5-19.7 34.3-19.7s27.8 6.3 34.3 19.7c4 8.5 4.3 12.2 4.3 64.7 0 50.2.4 56.4 3.6 62.5 4.3 8 14.8 14.4 23.1 14.4h5.7V604c0 206 .2 216.9 3.7 223.4 6 11.6 14.2 14.4 39.3 14.4h22v59.8c0 66.8.5 70.8 12.5 78.2 8.5 5 19 5 27.6 0 12.2-7.6 12.6-10 12.6-93.8 0-69.4-.4-76.3-3.7-82.5-6-11.6-14.2-14.4-39.3-14.4h-22V572.4c0-206-.1-216.9-3.6-223.4a29.6 29.6 0 0 0-23.1-14.4h-5.7v-38.3c0-21-1-43.2-2-49.1a111 111 0 0 0-23.1-46c-5.1-6.2-9.4-12.5-9.4-14.3 0-10.5-20.9-39-28.4-39-1.2 0-2-20.8-2-58.4 0-52.5-.4-59-3.7-65A29.7 29.7 0 0 0 500 10c-2.8 0-8.3 1.6-12 3.6zM715.3 338.3c-7.8 4-14.4 14.8-14.4 22.7s6.7 18.7 14.4 22.7c5.4 2.8 11.3 3.7 28.6 3.7h21.9v287c0 316.1-.8 297.2 12.6 305.4 8.5 5 19 5 27.5 0 13.2-8.2 12.6 4.2 12.6-240.5V517.2h77.1v225.2c0 244.7-.4 233.9 11.2 243 7.7 6.1 22.7 6.1 30.4 0 11.8-9.1 11.2 3 11.2-258.6 0-229.7-.2-241.5-3.7-248-7.3-13.5-11-14.4-71.8-14.4h-54.4v-54.3c0-48.7-.4-55-3.6-61.1-7-12.8-12.8-14.4-55.2-14.4-32.5 0-38.6.4-44.5 3.7zM195.9 403.2c-13.6 7.3-14.4 11-14.4 71.8v54.4H127c-60.8 0-64.5.8-71.8 14.4-3.5 6.5-3.7 17.2-3.7 212.4 0 226.2-.6 215.4 12.6 223.5 8.6 5.1 19.1 5.1 27.6 0 13.2-8 12.6 1 12.6-207.9V582.1h77.1v189.7c0 209-.6 199.8 12.6 208 13.4 8 31.4 2.6 37.3-11.2 2.4-5.9 2.9-44.6 2.9-261.7V452.3h21.9c17.2 0 23-.8 28.6-3.7 7.7-4 14.4-14.8 14.4-22.7s-6.7-18.7-14.4-22.7c-6-3.3-12-3.7-44.5-3.7s-38.5.4-44.4 3.7z" />
-        </svg>
-        <h2>8,500,000 Souls</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <svg class="separator" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-          <path d="M488 13.6c-13.8 7.6-14.4 10.6-14.4 76 0 37.5-.8 58.4-2 58.4-7.5 0-28.4 28.2-28.4 38.3 0 2.2-4.3 8.7-9.3 14.8a105.4 105.4 0 0 0-23.2 46c-1 6.2-2 28.3-2 49.2v38.3H403c-8.3 0-18.8 6.5-23.1 14.4-3.4 6.5-3.6 17.4-3.6 223.4V789h-22c-25.1 0-33.2 2.9-39.3 14.4-3.3 6.3-3.7 13.2-3.7 82.6 0 83.8.4 86.2 12.6 93.7 8.5 5.1 19 5.1 27.6 0 12-7.3 12.6-11.3 12.6-78v-60H386c25.2 0 33.3-2.8 39.4-14.3 3.4-6.5 3.6-17.5 3.6-223.4V387.3h5.7c8.3 0 18.9-6.5 23.1-14.4 3.3-6 3.7-12.3 3.7-62.5 0-52.5.2-56.2 4.2-64.7 6.5-13.4 17.5-19.7 34.3-19.7s27.8 6.3 34.3 19.7c4 8.5 4.3 12.2 4.3 64.7 0 50.2.4 56.4 3.6 62.5 4.3 8 14.8 14.4 23.1 14.4h5.7V604c0 206 .2 216.9 3.7 223.4 6 11.6 14.2 14.4 39.3 14.4h22v59.8c0 66.8.5 70.8 12.5 78.2 8.5 5 19 5 27.6 0 12.2-7.6 12.6-10 12.6-93.8 0-69.4-.4-76.3-3.7-82.5-6-11.6-14.2-14.4-39.3-14.4h-22V572.4c0-206-.1-216.9-3.6-223.4a29.6 29.6 0 0 0-23.1-14.4h-5.7v-38.3c0-21-1-43.2-2-49.1a111 111 0 0 0-23.1-46c-5.1-6.2-9.4-12.5-9.4-14.3 0-10.5-20.9-39-28.4-39-1.2 0-2-20.8-2-58.4 0-52.5-.4-59-3.7-65A29.7 29.7 0 0 0 500 10c-2.8 0-8.3 1.6-12 3.6zM715.3 338.3c-7.8 4-14.4 14.8-14.4 22.7s6.7 18.7 14.4 22.7c5.4 2.8 11.3 3.7 28.6 3.7h21.9v287c0 316.1-.8 297.2 12.6 305.4 8.5 5 19 5 27.5 0 13.2-8.2 12.6 4.2 12.6-240.5V517.2h77.1v225.2c0 244.7-.4 233.9 11.2 243 7.7 6.1 22.7 6.1 30.4 0 11.8-9.1 11.2 3 11.2-258.6 0-229.7-.2-241.5-3.7-248-7.3-13.5-11-14.4-71.8-14.4h-54.4v-54.3c0-48.7-.4-55-3.6-61.1-7-12.8-12.8-14.4-55.2-14.4-32.5 0-38.6.4-44.5 3.7zM195.9 403.2c-13.6 7.3-14.4 11-14.4 71.8v54.4H127c-60.8 0-64.5.8-71.8 14.4-3.5 6.5-3.7 17.2-3.7 212.4 0 226.2-.6 215.4 12.6 223.5 8.6 5.1 19.1 5.1 27.6 0 13.2-8 12.6 1 12.6-207.9V582.1h77.1v189.7c0 209-.6 199.8 12.6 208 13.4 8 31.4 2.6 37.3-11.2 2.4-5.9 2.9-44.6 2.9-261.7V452.3h21.9c17.2 0 23-.8 28.6-3.7 7.7-4 14.4-14.8 14.4-22.7s-6.7-18.7-14.4-22.7c-6-3.3-12-3.7-44.5-3.7s-38.5.4-44.4 3.7z" />
-        </svg>
-        <h2>789 km²</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam odio consequuntur aliquam nobis eius voluptatem. Nam eum cumque ullam, quae tenetur sed repellendus non accusamus voluptatum quisquam corporis qui?</p>
 
-      </main>
+        <h1>
+          <!-- <svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.3 145.3">
+            <path d="M128.8 122.6c-2 2.4-14 14.3-24.3 21.4-1.8-24.8-13.7-40.7-33.2-54.3a336 336 0 0 0-.2 33c.4 7 3.8 11.2 9.3 15.7-7.2 1.6-28 1.3-35-1 .7-.5 9.5-5.4 10.3-21.3.5-11.4.6-19.8.2-33.7l-.9-3.6c-9.5-7-17.7-14.1-28.4-25.6 9.8 25.7-2.6 57.8-4 69.6-.5 4-1.8 12-1.3 20.3-3.1-1.9-15.4-10-21.3-17.6C17.1 96 29.6 67.3 2.7 41c5-7.6 12.5-14.4 18.6-17.3a80.4 80.4 0 0 0 30 38.9C43.7 34.4 33.9 25 27.7 21.9c4.1-9.5 17.5-19.4 24.6-22a43.5 43.5 0 0 0-.3 28.8c3.3 11.4 8.4 25.2 14 35.6C69.2 59 79.9 36.7 82.8 27a53.9 53.9 0 0 0 1.6-24.8A77.5 77.5 0 0 1 107 24c-6.5 1.4-9.6 4.7-13.4 11.4-4 6.8-14 32.5-19.6 43.6 5.9 5 16.1 11.4 24.3 21.2-9-35.2.2-62 12-70 5.4 1.7 12.4 6.2 17.5 11.5-19.1 8-17.9 32.4-18 34.2-.8 14 4.8 38.8 15.4 44.9a34 34 0 0 0 3.7 2c-2 2.4-14 14.2-24.3 21.3" />
+          </svg> -->
+          <section id="content-gift container-fluid">
+          <body>
+  <div class = "container mx-auto row justify-content-between">
+
+      <div class = "card col-md-4">
+        <div class = "image">
+          <img href = "#" src =               https://i.pinimg.com/originals/a4/7b/a5/a47ba59b4a353e0928ef0551ca44f980.jpg>
+        </div>
+        <div class = content>
+          <h3>This is content</h3>
+          <p>DIn publishing and graphic design,           Lorem ipsum is a placeholder text               commonly used to demonstrate the visual         form of a document or a typeface without         relying on meaningful content.</p>
+        </div>
+      </div>
+      <div class = "card col-md-4">
+        <div class = "image">
+          <img href = "#" src =               https://i.pinimg.com/originals/a4/7b/a5/a47ba59b4a353e0928ef0551ca44f980.jpg>
+        </div>
+        <div class = content>
+          <h3>This is content</h3>
+          <p>DIn publishing and graphic design,           Lorem ipsum is a placeholder text               commonly used to demonstrate the visual         form of a document or a typeface without         relying on meaningful content.</p>
+        </div>
+      </div>
+      <div class = "card col-md-4">
+        <div class = "image">
+          <img href = "#" src =               https://i.pinimg.com/originals/a4/7b/a5/a47ba59b4a353e0928ef0551ca44f980.jpg>
+        </div>
+        <div class = content>
+          <h3>This is content</h3>
+          <p>DIn publishing and graphic design,           Lorem ipsum is a placeholder text               commonly used to demonstrate the visual         form of a document or a typeface without         relying on meaningful content.</p>
+        </div>
+      </div>
+    </div>
+</body>
+          </section>
+
+          <section id="content-gift">
+
+          </section>
+
+
+
 
     </div>
   </section>
@@ -204,29 +223,7 @@
     }
     if (inIframe()) document.querySelector('.no-iframe').style.display = 'block';
   </script>
-<section id="content-gift">
-<div class="product">
-     <div class="imgbox"> <img src="https://i.imgur.com/iDwDQ4o.png"> </div>
-     <div class="specifies">
-         <h2>Analog Watch <br> <span>Rolex</span></h2>
-         <div class="price">$1500</div> <label>Size</label>
-         <ul>
-             <li>10MM</li>
-             <li>20MM</li>
-             <li>30MM</li>
-             <li>40MM</li>
-             <li>50MM</li>
-         </ul> <label>Colors</label>
-         <ul class="colors">
-             <li></li>
-             <li></li>
-             <li></li>
-             <li></li>
-             <li></li>
-         </ul> <button class="btn btn-primary">Buy Now</button>
-     </div>
- </div>
-</section>
+
 
 </body>
 
