@@ -96,7 +96,7 @@ body {
   --bs-offcanvas-box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
 }
 
-body,
+/* body,
 #content002 {
   position: relative;
   height: 100%;
@@ -109,7 +109,7 @@ body,
   color: #000;
   margin: 0;
   padding: 0;
-}
+} */
 
 .swiper {
   width: 100%;
@@ -431,11 +431,11 @@ a {
   box-sizing : border-box;
   font-familly : "Poppins", sans-serif;
 }
-body {
+.bodya {
   display : flex;
   align-items : center;
   justify-content : center;
-  background-color: #43345d;
+  background-color: #FFF;
   min-height : 800px;
 }
 
@@ -477,7 +477,7 @@ body {
   position : relative;
   width : 260px;
   height : 260px;
-
+  border-radius : 15px;
   top : -40%;
   left: 8px;
   box-shadow : 0 5px 20px rgba(0,0,0,0.2);

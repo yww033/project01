@@ -7,7 +7,7 @@
   <title>精緻淡果香禮盒組</title>
 </head>
 
-<body>
+<body class="bodya">
   <!-- 引入Navbar -->
   <?php require_once("headerNavbar.php"); ?>
 
@@ -145,54 +145,142 @@
 
 
 
-        <h1>
-          <!-- <svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.3 145.3">
+      <h1>
+        <!-- <svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.3 145.3">
             <path d="M128.8 122.6c-2 2.4-14 14.3-24.3 21.4-1.8-24.8-13.7-40.7-33.2-54.3a336 336 0 0 0-.2 33c.4 7 3.8 11.2 9.3 15.7-7.2 1.6-28 1.3-35-1 .7-.5 9.5-5.4 10.3-21.3.5-11.4.6-19.8.2-33.7l-.9-3.6c-9.5-7-17.7-14.1-28.4-25.6 9.8 25.7-2.6 57.8-4 69.6-.5 4-1.8 12-1.3 20.3-3.1-1.9-15.4-10-21.3-17.6C17.1 96 29.6 67.3 2.7 41c5-7.6 12.5-14.4 18.6-17.3a80.4 80.4 0 0 0 30 38.9C43.7 34.4 33.9 25 27.7 21.9c4.1-9.5 17.5-19.4 24.6-22a43.5 43.5 0 0 0-.3 28.8c3.3 11.4 8.4 25.2 14 35.6C69.2 59 79.9 36.7 82.8 27a53.9 53.9 0 0 0 1.6-24.8A77.5 77.5 0 0 1 107 24c-6.5 1.4-9.6 4.7-13.4 11.4-4 6.8-14 32.5-19.6 43.6 5.9 5 16.1 11.4 24.3 21.2-9-35.2.2-62 12-70 5.4 1.7 12.4 6.2 17.5 11.5-19.1 8-17.9 32.4-18 34.2-.8 14 4.8 38.8 15.4 44.9a34 34 0 0 0 3.7 2c-2 2.4-14 14.2-24.3 21.3" />
           </svg> -->
-          <section id="content-gift container-fluid">
+        <section id="content-gift container-fluid">
+
           <body>
-  <div class = "container mx-auto row justify-content-between">
+            <div class="container mx-auto row justify-content-between">
+            <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/果香漫饗.webp>
+                </div>
 
-      <div class = "card col-md-4">
-        <div class = "image">
-          <img href = "#" src =               https://i.pinimg.com/originals/a4/7b/a5/a47ba59b4a353e0928ef0551ca44f980.jpg>
-        </div>
-        <div class = content>
-          <h3>This is content</h3>
-          <p>DIn publishing and graphic design,           Lorem ipsum is a placeholder text               commonly used to demonstrate the visual         form of a document or a typeface without         relying on meaningful content.</p>
-        </div>
-      </div>
-      <div class = "card col-md-4">
-        <div class = "image">
-          <img href = "#" src =               https://i.pinimg.com/originals/a4/7b/a5/a47ba59b4a353e0928ef0551ca44f980.jpg>
-        </div>
-        <div class = content>
-          <h3>This is content</h3>
-          <p>DIn publishing and graphic design,           Lorem ipsum is a placeholder text               commonly used to demonstrate the visual         form of a document or a typeface without         relying on meaningful content.</p>
-        </div>
-      </div>
-      <div class = "card col-md-4">
-        <div class = "image">
-          <img href = "#" src =               https://i.pinimg.com/originals/a4/7b/a5/a47ba59b4a353e0928ef0551ca44f980.jpg>
-        </div>
-        <div class = content>
-          <h3>This is content</h3>
-          <p>DIn publishing and graphic design,           Lorem ipsum is a placeholder text               commonly used to demonstrate the visual         form of a document or a typeface without         relying on meaningful content.</p>
-        </div>
-      </div>
-    </div>
-</body>
-          </section>
-
-          <section id="content-gift">
-
-          </section>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>果香漫饗禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$750</span> <span style="color: grey; text-decoration: line-through;">NT$870</span></p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
 
 
+              </div>
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/花果盛宴.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>花果盛宴禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$590</span> <span style="color: grey; text-decoration: line-through;">NT$650</span></p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/漢方養生.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>漢方養生禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$890</span> </p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+            </div>
+          </body>
+        </section>
+        <section id="content-gift container-fluid">
 
+          <body>
+            <div class="container mx-auto row justify-content-between">
+
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/清新果醋.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>清新果醋禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$690</p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/幸福旺來.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>幸福旺來禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$1,950~$15,600</span> <span style="color: grey; text-decoration: line-through;">NT$19,500</span></p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/蘋蘋甜蜜.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>蘋蘋甜蜜禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$1,950~$15,600</span> <span style="color: grey; text-decoration: line-through;">NT$19,500</span></p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+            </div>
+          </body>
+        </section>
+        <section id="content-gift container-fluid">
+
+          <body>
+            <div class="container mx-auto row justify-content-between">
+
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/澄心滿滿.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>澄心滿滿禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$1,950~$15,600</span> <span style="color: grey; text-decoration: line-through;">NT$19,500</span></p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/無添加食用果乾禮盒組.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>無添加果乾禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$650</span> </p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+              <div class="card col-md-4">
+                <div class="image">
+                  <img href="#" src=./images/禮盒組/好孕媽咪禮盒組.webp>
+                </div>
+                <div class=content>
+                  <h3 style="font-size: 25px" ;>好孕媽咪禮盒組</h3>
+                  <p><span style="color: #FF8000;font-size: 18px;font-family: 微軟正黑體, sans-serif;font-weight: bold;">NT$1,590</span> <span style="color: grey; text-decoration: line-through;">NT$2,130</span></p>
+                  <button type="button" class="btn btn-outline-danger">詳細內容</button>
+                  <button type="button" class="btn btn-outline-warning">加入購物車</button>
+                </div>
+              </div>
+            </div>
+          </body>
+        </section>
+        <section id="content-gift">
+
+        </section>
 
     </div>
   </section>
+
   <script>
     //  passive events
     let passiveSupported = false;

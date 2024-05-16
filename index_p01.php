@@ -73,34 +73,34 @@
     <div class="swiper mySwiper">
       <div class="swiper-wrapper">
         <div class="swiper-slide">
-          <a href="..."><img src="./images/10001.png" /></a>
+          <a href="gift.php"><img src="./images/10001.png" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/花果盛宴.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/花果盛宴.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/果香漫饗.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/果香漫饗.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/漢方養生.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/漢方養生.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/好孕媽咪禮盒組.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/好孕媽咪禮盒組.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/無添加食用果乾禮盒組.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/無添加食用果乾禮盒組.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/清新果醋.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/清新果醋.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/蘋蘋甜蜜.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/蘋蘋甜蜜.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/幸福旺來.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/幸福旺來.webp" /></a>
         </div>
         <div class="swiper-slide">
-          <a href="..."><img src="./images/禮盒組/澄心滿滿.webp" /></a>
+          <a href="gift.php"><img src="./images/禮盒組/澄心滿滿.webp" /></a>
         </div>
 
       </div>
@@ -220,6 +220,8 @@
       </div>
     </div>
   </section>
+  <br>
+  <br>
   <div class="frame">
     <a href="#" class="btn">
       <i class="fab fa-facebook-f" style="color: #3b5998;"></i>
